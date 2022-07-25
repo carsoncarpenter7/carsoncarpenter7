@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carsoncarpenter7&label=Profile%20views&color=13e73d&style=flat" alt="carsoncarpenter7" /> </p>
 
-- 🔭 I’m currently working on [a Portfolio website](https://github.com/carsoncarpenter7/carsoncarpenter7.github.io) 
+- 🔭 I’m currently working on a Python Crypto Trading Bot)
+[and a Portfolio website](https://github.com/carsoncarpenter7/carsoncarpenter7.github.io
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Solidity.**.
+- 🌱 I’m currently learning **HTML, CSS, Kotlin, and Solidity.**.
 
 - 🌱 I’m currently trying to perfect my **Python, Numpy, and SQL** skills.
 
