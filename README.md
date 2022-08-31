@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Python Crypto Trading Bot)
 [and a Portfolio website](https://github.com/carsoncarpenter7/carsoncarpenter7.github.io
 
-- 🌱 I’m currently learning **HTML, CSS, Kotlin, and Solidity.**.
+- 🌱 I’m currently learning **HTML, CSS, Kotlin, and React.**
 
 - 🌱 I’m currently trying to perfect my **Python, Numpy, and SQL** skills.
 
