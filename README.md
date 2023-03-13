@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on a Python Crypto Trading Bot)
 [and a Portfolio website](https://github.com/carsoncarpenter7/carsoncarpenter7.github.io
 
-- 🌱 I’m currently learning **HTML, CSS, Kotlin, and React.**
+-  I’m currently learning **HTML, CSS, Kotlin.**
 
-- 🌱 I’m currently trying to perfect my **Python, Numpy, and SQL** skills.
+-  I’m currently trying to perfect my **Python and SQL** skills.
 
-- 👨‍💻 All of my projects are available at [https://github.com/carsoncarpenter7](https://github.com/carsoncarpenter7)
+-  All of my public projects are available at [https://github.com/carsoncarpenter7](https://github.com/carsoncarpenter7)
 
 - 📫 How to reach me **carsoncarpenter77@gmail.com**
 
