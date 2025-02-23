@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carsoncarpenter7&label=Profile%20views&color=13e73d&style=flat" alt="carsoncarpenter7" /> </p>
 
-- 🔭 I’m currently working on a Python Crypto Trading Bot)
+- 🔭 I’m currently exploring new AI tools such as lovable.ai, Bolt.new, and Cursor to expand my app library to build new Habit trackers, Journals, and Leaderboards.
 [and a Portfolio website](https://github.com/carsoncarpenter7/carsoncarpenter7.github.io
 
--  I’m currently learning **HTML, CSS, Kotlin.**
+-  I’m currently learning **HTML, CSS, React, and TypeScript.**
 
--  I’m currently trying to perfect my **Python and SQL** skills.
+-  I’m currently trying to make new apps and tools using the newest AI models available.
 
 -  All of my public projects are available at [https://github.com/carsoncarpenter7](https://github.com/carsoncarpenter7)
 
